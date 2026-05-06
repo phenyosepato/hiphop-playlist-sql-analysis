@@ -23,7 +23,7 @@ A SQL and Power BI project analyzing 991
 
 ---
 
-## 🛠️ Technical Workflow
+## Technical Workflow
 
 1. **Python ETL** — `pandas` + `sqlite3` to load Kaggle CSV, filter to hip-hop/rap, normalize into 4 tables (genres, artists, albums, tracks)
 2. **SQL Analysis** — 35 queries across 8 sections: artist rankings, banger analysis, mood mapping, tempo distribution, hidden gems
@@ -34,7 +34,7 @@ A SQL and Power BI project analyzing 991
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
 ### Page 1: Overview
 ![Page 1](page1_overview.png)
